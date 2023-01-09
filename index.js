@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Te amo mucho. Sabia que no dudarias')
+    alert('Muchar gracias por asistir. Recuerda llevar agua y dinero')
 });
 
 const noBtn = document.querySelector('#noBtn');
