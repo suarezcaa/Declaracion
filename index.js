@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('te pido perdón amix, te quiero mucho')
+    alert('venga pues bobo hpta')
 });
 
 const noBtn = document.querySelector('#noBtn');
